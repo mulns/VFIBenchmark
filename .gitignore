@@ -1,0 +1,13 @@
+checkpoints
+data
+__pycache__
+*.pth
+*.pytorch
+*.pkl
+*.png
+*.jpg
+*.zip
+*.txt
+*.sh
+compare_video*
+scores
